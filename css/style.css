@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Chilanka|Noto+Serif|PT+Serif&display=swap');
+
+.intro{
+	height: 200px;
+	background-color:deepskyblue;
+	background-image: url(../img/icon.jpg);
+	background-size:50px;
+	background-repeat:repeat-x;
+	background-position:center;
+	box-shadow: 0px 0px 15px deepskyblue;
+	text-align: center;
+	line-height: 70px;
+	font-family: "Chilanka", cursive;
+	font-size: 25px;
+}
+
+.flights p{
+	height: 200px;
+	background-image: linear-gradient(to right,green 15%,white 50%,red 100%);
+	text-align: center;
+    font-size: 30px;
+    font-family: "Noto Serif", serif;
+
+	}
+.copyright {
+	height: 100px;
+	text-align: left;
+	line-height: 100px;
+	font-family: "Noto Serif", serif;
+	background-color: lavender;
+}
